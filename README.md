@@ -1,1 +1,1 @@
-# architecture for sls wedding web
+# Architecture for sls wedding web
